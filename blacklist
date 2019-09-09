@@ -10,7 +10,7 @@ googleadservices.com
 adf.ly
 tinyurl.com
 nsatc.net
-amazonaws.com
+##amazonaws.com ####Amazon
 pi-news.net
 mmnews.de
 #Zahlungsdienstleister
@@ -141,7 +141,7 @@ affiliates.de
 agkn.com
 ajmn.me
 alegratka.eu
-amazon-adsystem.com
+#amazon-adsystem.com
 aolcdn.com
 apester.com
 apigurus.com
@@ -363,7 +363,7 @@ rqtrk.eu
 rtrp13n.de
 rubiconproject.com
 rundsp.com
-s3.us-east-2.amazonaws.com
+#s3.us-east-2.amazonaws.com
 salemove.com
 salldo.de
 sascdn.com
